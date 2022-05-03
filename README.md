@@ -1,5 +1,5 @@
 <h1 align="left">
-    <a href="https://github.com/m4mallu">Tube (YouTube Downloader)
+    <a href="https://github.com/ShadowKing9">Tube (YouTube Downloader)
 </a>
 </h1>
 
@@ -54,7 +54,7 @@
     <b>2. <u>Deploy to VPS</u></b><br>
     <ul>
         <li>Open a Linux Terminal and run the following commands.</li>
-        <li><code>git clone https://github.com/m4mallu/tube</code></li>
+        <li><code>git clone https://github.com/ShadowKing9/ShadowYtDownloader</code></li>
         <li><code>cd inline-tube-mate</code></li>
         <li>Create a database URI with the <a href="https://telegra.ph/Clonebot-UI-Help-05-30"><b>TUTORIAL</b></a>.</li>
         <li>Create a <code>config.py</code> file with the mandatory variables and database URI.</li>
@@ -70,9 +70,9 @@
   <summary><b>Developer</b></summary>
     <p align="left">
         <img alt="GPL3" src ="https://c.tenor.com/10Zdx_RXqgcAAAAC/programming-crazy.gif" width="260px" style="max-width:100%;"/><br>
-            <a href="https://t.me/space4renjith"><img src="https://img.shields.io/badge/Renjith-Mangal-orange" height="24">
+            <a href="https://t.me/ShadowKing9o"><img src="https://img.shields.io/badge/Renjith-Mangal-orange" height="24">
         </a>&nbsp;
-            <a href="https://t.me/rmprojects"><img src="https://img.shields.io/badge/Updates-Channel-orange" height="24">
+            <a href="https://t.me/ShadowsArena"><img src="https://img.shields.io/badge/Updates-Channel-orange" height="24">
         </a>
 </p>
 </details>
