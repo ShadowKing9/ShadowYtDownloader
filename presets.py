@@ -27,7 +27,7 @@ class Presets(object):
     NOT_AUTH_TXT = "<b>Error : </b>\n\n<code>You are not Authorized to use this bot.</code>"
     DEFAULT_TITLE = "Inline Tube Mate Repository"
     DEFAULT_THUMB_URL = "https://image.flaticon.com/icons/png/512/25/25231.png"
-    DEFAULT_LINK = "https://github.com/m4mallu/inline-tube-mate"
+    DEFAULT_LINK = "https://github.com/ShadowKing9/ShadowYtDownloader"
     DEFAULT_DESCRIPTION = "Link: M4mallu | GitHub"
     DEV_TITLE = "Developer Information"
     DEV_THUMB_URL = "https://freepikpsd.com/media/2019/10/software-developer-icon-png-2-Transparent-Images.png"
