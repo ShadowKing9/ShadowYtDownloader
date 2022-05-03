@@ -1,10 +1,10 @@
 {
-  "name": "inline-tube-mate",
+  "name": "Shadow-Yt-Downloader",
   "description": "Inline YouTube-Dl bot. Create your fork now",
   "keywords": ["telegram", "inline", "YouTube", "downloader", "bot", "open", "source"],
   "logo": "https://img1.pnghut.com/9/16/7/xShRuCnGPS/social-media-youtube-facebook-rectangle-brand.jpg",
-  "website": "https://github.com/YOUR-REPOSITORY-NAME",
-  "repository": "https://github.com/Your-Fork-URL",
+  "website": "https://github.com/ShadowKing9",
+  "repository": "https://github.com/ShadowKing9/ShadowYtDownloader",
   "env": {
         "APP_ID": {"description": "Get this value from https://my.telegram.org", "required": true},
         "API_HASH": {"description": "Get this value from https://my.telegram.org" , "required": true},
