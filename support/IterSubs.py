@@ -1,8 +1,8 @@
 """ !/usr/bin/env python3
     -*- coding: utf-8 -*-
     Name     : inline-tube-mate [ Telegram ]
-    Repo     : https://github.com/m4mallu/inine-tube-mate
-    Author   : Renjith Mangal [ https://t.me/space4renjith ]
+    Repo     : https://github.com/ShadowKing9/ShadowYtDownloader
+    Author   : Shadow King [ https://t.me/ShadowKing9o ]
     Credits  : https://github.com/SpEcHiDe/AnyDLBot """
 
 import asyncio
